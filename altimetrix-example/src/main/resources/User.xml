@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<company>
+	<user id="1001">
+		<firstname>yong</firstname>
+		<lastname>mook kim</lastname>
+		<emailId>mkyong</emailId>
+		<status>100000</status>
+		<phoneNo>1111</phoneNo>
+	</user>
+	<user id="2001">
+		<firstname>low</firstname>
+		<lastname>yin fong</lastname>
+		<emailId>fong fong</emailId>
+		<status>200000</status>
+		<phoneNo>1111</phoneNo>
+	</user>
+</company>
